@@ -134,7 +134,7 @@
 ---
 
 ```bash
-git clone https://github.com/xxx.git
+git clone https://github.com/charseki/web-hack.git
 cd web-hack
 pip install sphinx sphinx-rtd-theme
 make html
